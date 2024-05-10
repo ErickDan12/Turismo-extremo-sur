@@ -1,0 +1,42 @@
+  /* Estilos para los títulos */
+  h2.major {
+    font-size: 24px;
+    color: #333;
+  }
+  
+  /* Estilos para las tarjetas */
+  .card {
+    width: 100%;
+    border: 50px solid #080808;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin-bottom: 150px;
+  }
+
+  /* Estilos para las imágenes */
+  .card-img-top {
+    width: 100%;  
+  }
+  
+  /* Estilos para los títulos de las tarjetas */
+  .card-title {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+  }
+  
+  /* Estilos para los textos de las tarjetas */
+  .card-text {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 16px;
+    color: black;
+  }
+
+  
+/* Establece un tamaño fijo para las imágenes */
+.card-img-top {
+    height: 300px; 
+    object-fit: cover; 
+  }
+  
